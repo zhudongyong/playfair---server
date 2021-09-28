@@ -2,6 +2,7 @@
 
 # 引用 代码
 https://github.com/EstebanKubata/playfair
+https://github.com/juhovh/shairplay
 
 # 修改部分
 1、移除 Airplay 其它部分，只保留了 DRM 解码部分功能
